@@ -1,0 +1,22 @@
+.list {
+  padding-top: 30px;
+}
+
+.item {
+  display: flex;
+  justify-content: center;
+}
+
+.item:not(:last-child) {
+  margin-bottom: 8px;
+}
+
+.btn {
+  border: none;
+  border-radius: 3px;
+  background-color: rgb(245, 28, 28);
+}
+
+.text {
+  width: 200px;
+}

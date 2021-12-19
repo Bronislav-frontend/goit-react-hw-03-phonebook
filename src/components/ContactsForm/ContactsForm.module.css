@@ -1,0 +1,18 @@
+.form {
+  padding-top: 10px;
+}
+
+.text:not(:last-child) {
+  margin-bottom: 10px;
+}
+
+.text:last-child {
+  margin-top: 10px;
+}
+
+.btn {
+  background-color: rgb(37, 219, 13);
+  color: white;
+  border: none;
+  border-radius: 3px;
+}
